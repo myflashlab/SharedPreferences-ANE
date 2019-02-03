@@ -20,10 +20,10 @@ SharedPreferences.init();
 SharedPreferences.setString("key", "value");
 
 // you can read back values with the specified data types like how you set them before.
-SharedPreferences.getString("key");
+var value:String = SharedPreferences.getString("key");
 
 // you can read all available data in an object
-SharedPreferences.getAll();
+var obj:Object = SharedPreferences.getAll();
 
 // you can delete a key/value paid
 SharedPreferences.remove("key");
