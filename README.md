@@ -54,6 +54,11 @@ Embedding the ANE:
 * iOS SDK 8.0+
 * AIR SDK 31.0+
 
+# Commercial Version
+https://www.myflashlabs.com/product/shared-preferences-ane-adobe-air-native-extension/
+
+[![SharedPreferences ANE](https://www.myflashlabs.com/wp-content/uploads/2019/04/product_adobe-air-ane-shared-preferences.jpg)](https://www.myflashlabs.com/product/shared-preferences-ane-adobe-air-native-extension/)
+
 # Tutorials
 [How to embed ANEs into **FlashBuilder**, **FlashCC** and **FlashDevelop**](https://www.youtube.com/watch?v=Oubsb_3F3ec&list=PL_mmSjScdnxnSDTMYb1iDX4LemhIJrt1O)  
 
